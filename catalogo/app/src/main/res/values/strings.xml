@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">CATALOGO</string>
+
+    <!-- Registrarte -->
+    <string name="registrarse_ahora_label">Registrarse Ahora</string>
+    <string name="usuario_label">Usuario</string>
+    <string name="correo_label">Correo</string>
+    <string name="password_label">Contraseña</string>
+    <string name="registrarse_label">Registrarse</string>
+
+    <string name="escribe_tu_nombre_label">escribe tu nombre</string>
+    <string name="escribe_tu_correo_electronico_label">escribe tu correo electronico</string>
+    <string name="escribe_una_contraseña_label">escribe una contraseña</string>
+
+    <string name="usuario_registrado_label">Usuario Registrado</string>
+
+    <!-- login -->
+    <string name="login_label">Login</string>
+    <string name="escribe_tu_contraseña_label">escribe tu contraseña</string>
+
+    <!-- dialogo -->
+    <string name="comprobando_datos_label">comprobando datos</string>
+    <string name="espere_por_favor_label">espere por favor...</string>
+
+    <!-- cardView productos -->
+    <string name="precio_label">Precio $</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
